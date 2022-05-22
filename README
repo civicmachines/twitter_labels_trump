@@ -1,5 +1,5 @@
 Code that generates the results of the paper:
-Orestis Papakyriakopoulos and Ellen Goodmann. 2022. The Impact of Twitter Labels on Misinformation Spread and User Engagement: Lessons from Trump’s Election Tweets. 
+Orestis Papakyriakopoulos and Ellen Goodman. 2022. The Impact of Twitter Labels on Misinformation Spread and User Engagement: Lessons from Trump’s Election Tweets. 
 In Proceedings of the ACM Web Conference 2022 (WWW '22). Association for Computing Machinery, New York, NY, USA, 2541–2551. DOI:https://doi.org/10.1145/3485447.3512126
 
 The repository contains the sample of labeled and unlabeled tweets of Donald trump between October 2020 and January 2021 that we collected (trump_tweets_labeled.csv)
